@@ -1,1 +1,6 @@
 This is my 1st Git-journey
+
+
+i modified this file from my feature/pre-training branch.
+
+please review.
