@@ -1,0 +1,1 @@
+My goal is to become a cloud Engineer/technical decision maker
