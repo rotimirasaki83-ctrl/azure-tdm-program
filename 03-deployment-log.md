@@ -1,4 +1,4 @@
-\# Deployment Log
+# Deployment Log
 
 Terraform apply completed successfully.
 
